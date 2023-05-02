@@ -1,0 +1,234 @@
+[
+  {
+    "Agno": 2008,
+    "Periodo": "Semestre 1",
+    "Parametro": "2008",
+    "Valor": 10744,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2008,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 10344,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2009,
+    "Periodo": "Semestre 1",
+    "Parametro": "2009",
+    "Valor": 9159,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2009,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 10196,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2010,
+    "Periodo": "Semestre 1",
+    "Parametro": "2010",
+    "Valor": 8801,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2010,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 10073,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2011,
+    "Periodo": "Semestre 1",
+    "Parametro": "2011",
+    "Valor": 9729,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2011,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 11832,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2012,
+    "Periodo": "Semestre 1",
+    "Parametro": "2012",
+    "Valor": 9606,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2012,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 11005,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2013,
+    "Periodo": "Semestre 1",
+    "Parametro": "2013",
+    "Valor": 9768,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2013,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 11827,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2014,
+    "Periodo": "Semestre 1",
+    "Parametro": "2014",
+    "Valor": 11594,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2014,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 14106,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2015,
+    "Periodo": "Semestre 1",
+    "Parametro": "2015",
+    "Valor": 13564,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2015,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 16766,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2016,
+    "Periodo": "Semestre 1",
+    "Parametro": "2016",
+    "Valor": 15582,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2016,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 18238,
+    "Estado": "Definitivo",
+    "Notas": null
+  },
+  {
+    "Agno": 2017,
+    "Periodo": "Semestre 1",
+    "Parametro": "2017",
+    "Valor": 16337,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2017,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 21851,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2018,
+    "Periodo": "Semestre 1",
+    "Parametro": "2018",
+    "Valor": 18316,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2018,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 19412,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2019,
+    "Periodo": "Semestre 1",
+    "Parametro": "2019",
+    "Valor": 16492,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2019,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 19548,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2020,
+    "Periodo": "Semestre 1",
+    "Parametro": "2020",
+    "Valor": 10367,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2020,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 15778,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2021,
+    "Periodo": "Semestre 1",
+    "Parametro": "2021",
+    "Valor": 13428,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2021,
+    "Periodo": "Semestre 2",
+    "Parametro": "Semestre 2",
+    "Valor": 18989,
+    "Estado": "Provisional",
+    "Notas": null
+  },
+  {
+    "Agno": 2022,
+    "Periodo": "Semestre 1",
+    "Parametro": "2022",
+    "Valor": 14650,
+    "Estado": "Provisional",
+    "Notas": null
+  }
+]

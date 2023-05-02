@@ -1,0 +1,826 @@
+﻿[
+  {
+    "Id": 1,
+    "Nombre": "Hombres",
+    "SonDatosNumericos": true,
+    "Fuente": "INE",
+    "Clasificacion": null,
+    "Unidad": "Edad",
+    "Escala": "Unidades",
+    "EscalaFactorPotencia10": 0,
+    "Datos": [
+      {
+        "Agno": 2023,
+        "Periodo": "Año",
+        "Parametro": "2023",
+        "Valor": 42.914,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2024,
+        "Periodo": "Año",
+        "Parametro": "2024",
+        "Valor": 43.088,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2025,
+        "Periodo": "Año",
+        "Parametro": "2025",
+        "Valor": 43.26,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2026,
+        "Periodo": "Año",
+        "Parametro": "2026",
+        "Valor": 43.432,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2027,
+        "Periodo": "Año",
+        "Parametro": "2027",
+        "Valor": 43.603,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2028,
+        "Periodo": "Año",
+        "Parametro": "2028",
+        "Valor": 43.777,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2029,
+        "Periodo": "Año",
+        "Parametro": "2029",
+        "Valor": 43.953,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2030,
+        "Periodo": "Año",
+        "Parametro": "2030",
+        "Valor": 44.131,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2031,
+        "Periodo": "Año",
+        "Parametro": "2031",
+        "Valor": 44.311,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2032,
+        "Periodo": "Año",
+        "Parametro": "2032",
+        "Valor": 44.493,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2033,
+        "Periodo": "Año",
+        "Parametro": "2033",
+        "Valor": 44.675,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2034,
+        "Periodo": "Año",
+        "Parametro": "2034",
+        "Valor": 44.856,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2035,
+        "Periodo": "Año",
+        "Parametro": "2035",
+        "Valor": 45.037,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2036,
+        "Periodo": "Año",
+        "Parametro": "2036",
+        "Valor": 45.215,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2037,
+        "Periodo": "Año",
+        "Parametro": "2037",
+        "Valor": 45.386,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2038,
+        "Periodo": "Año",
+        "Parametro": "2038",
+        "Valor": 45.547,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2039,
+        "Periodo": "Año",
+        "Parametro": "2039",
+        "Valor": 45.697,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2040,
+        "Periodo": "Año",
+        "Parametro": "2040",
+        "Valor": 45.838,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2041,
+        "Periodo": "Año",
+        "Parametro": "2041",
+        "Valor": 45.969,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2042,
+        "Periodo": "Año",
+        "Parametro": "2042",
+        "Valor": 46.091,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2043,
+        "Periodo": "Año",
+        "Parametro": "2043",
+        "Valor": 46.205,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2044,
+        "Periodo": "Año",
+        "Parametro": "2044",
+        "Valor": 46.311,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2045,
+        "Periodo": "Año",
+        "Parametro": "2045",
+        "Valor": 46.411,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2046,
+        "Periodo": "Año",
+        "Parametro": "2046",
+        "Valor": 46.505,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2047,
+        "Periodo": "Año",
+        "Parametro": "2047",
+        "Valor": 46.594,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2048,
+        "Periodo": "Año",
+        "Parametro": "2048",
+        "Valor": 46.677,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2049,
+        "Periodo": "Año",
+        "Parametro": "2049",
+        "Valor": 46.755,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2050,
+        "Periodo": "Año",
+        "Parametro": "2050",
+        "Valor": 46.828,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2051,
+        "Periodo": "Año",
+        "Parametro": "2051",
+        "Valor": 46.897,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2052,
+        "Periodo": "Año",
+        "Parametro": "2052",
+        "Valor": 46.96,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2053,
+        "Periodo": "Año",
+        "Parametro": "2053",
+        "Valor": 47.018,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2054,
+        "Periodo": "Año",
+        "Parametro": "2054",
+        "Valor": 47.07,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2055,
+        "Periodo": "Año",
+        "Parametro": "2055",
+        "Valor": 47.117,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2056,
+        "Periodo": "Año",
+        "Parametro": "2056",
+        "Valor": 47.157,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2057,
+        "Periodo": "Año",
+        "Parametro": "2057",
+        "Valor": 47.191,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2058,
+        "Periodo": "Año",
+        "Parametro": "2058",
+        "Valor": 47.218,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2059,
+        "Periodo": "Año",
+        "Parametro": "2059",
+        "Valor": 47.237,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2060,
+        "Periodo": "Año",
+        "Parametro": "2060",
+        "Valor": 47.25,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2061,
+        "Periodo": "Año",
+        "Parametro": "2061",
+        "Valor": 47.256,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2062,
+        "Periodo": "Año",
+        "Parametro": "2062",
+        "Valor": 47.255,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2063,
+        "Periodo": "Año",
+        "Parametro": "2063",
+        "Valor": 47.248,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2064,
+        "Periodo": "Año",
+        "Parametro": "2064",
+        "Valor": 47.235,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2065,
+        "Periodo": "Año",
+        "Parametro": "2065",
+        "Valor": 47.217,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2066,
+        "Periodo": "Año",
+        "Parametro": "2066",
+        "Valor": 47.194,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2067,
+        "Periodo": "Año",
+        "Parametro": "2067",
+        "Valor": 47.169,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2068,
+        "Periodo": "Año",
+        "Parametro": "2068",
+        "Valor": 47.14,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2069,
+        "Periodo": "Año",
+        "Parametro": "2069",
+        "Valor": 47.11,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2070,
+        "Periodo": "Año",
+        "Parametro": "2070",
+        "Valor": 47.08,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2071,
+        "Periodo": "Año",
+        "Parametro": "2071",
+        "Valor": 47.049,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2072,
+        "Periodo": "Año",
+        "Parametro": "2072",
+        "Valor": 47.02,
+        "Estado": null,
+        "Notas": null
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Nombre": "Mujeres",
+    "SonDatosNumericos": true,
+    "Fuente": "INE",
+    "Clasificacion": null,
+    "Unidad": "Edad",
+    "Escala": "Unidades",
+    "EscalaFactorPotencia10": 0,
+    "Datos": [
+      {
+        "Agno": 2023,
+        "Periodo": "Año",
+        "Parametro": "2023",
+        "Valor": 45.484,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2024,
+        "Periodo": "Año",
+        "Parametro": "2024",
+        "Valor": 45.656,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2025,
+        "Periodo": "Año",
+        "Parametro": "2025",
+        "Valor": 45.825,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2026,
+        "Periodo": "Año",
+        "Parametro": "2026",
+        "Valor": 45.993,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2027,
+        "Periodo": "Año",
+        "Parametro": "2027",
+        "Valor": 46.162,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2028,
+        "Periodo": "Año",
+        "Parametro": "2028",
+        "Valor": 46.335,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2029,
+        "Periodo": "Año",
+        "Parametro": "2029",
+        "Valor": 46.511,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2030,
+        "Periodo": "Año",
+        "Parametro": "2030",
+        "Valor": 46.692,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2031,
+        "Periodo": "Año",
+        "Parametro": "2031",
+        "Valor": 46.877,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2032,
+        "Periodo": "Año",
+        "Parametro": "2032",
+        "Valor": 47.066,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2033,
+        "Periodo": "Año",
+        "Parametro": "2033",
+        "Valor": 47.257,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2034,
+        "Periodo": "Año",
+        "Parametro": "2034",
+        "Valor": 47.451,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2035,
+        "Periodo": "Año",
+        "Parametro": "2035",
+        "Valor": 47.645,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2036,
+        "Periodo": "Año",
+        "Parametro": "2036",
+        "Valor": 47.84,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2037,
+        "Periodo": "Año",
+        "Parametro": "2037",
+        "Valor": 48.029,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2038,
+        "Periodo": "Año",
+        "Parametro": "2038",
+        "Valor": 48.209,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2039,
+        "Periodo": "Año",
+        "Parametro": "2039",
+        "Valor": 48.38,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2040,
+        "Periodo": "Año",
+        "Parametro": "2040",
+        "Valor": 48.542,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2041,
+        "Periodo": "Año",
+        "Parametro": "2041",
+        "Valor": 48.695,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2042,
+        "Periodo": "Año",
+        "Parametro": "2042",
+        "Valor": 48.84,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2043,
+        "Periodo": "Año",
+        "Parametro": "2043",
+        "Valor": 48.977,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2044,
+        "Periodo": "Año",
+        "Parametro": "2044",
+        "Valor": 49.107,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2045,
+        "Periodo": "Año",
+        "Parametro": "2045",
+        "Valor": 49.231,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2046,
+        "Periodo": "Año",
+        "Parametro": "2046",
+        "Valor": 49.35,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2047,
+        "Periodo": "Año",
+        "Parametro": "2047",
+        "Valor": 49.463,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2048,
+        "Periodo": "Año",
+        "Parametro": "2048",
+        "Valor": 49.571,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2049,
+        "Periodo": "Año",
+        "Parametro": "2049",
+        "Valor": 49.675,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2050,
+        "Periodo": "Año",
+        "Parametro": "2050",
+        "Valor": 49.773,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2051,
+        "Periodo": "Año",
+        "Parametro": "2051",
+        "Valor": 49.867,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2052,
+        "Periodo": "Año",
+        "Parametro": "2052",
+        "Valor": 49.956,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2053,
+        "Periodo": "Año",
+        "Parametro": "2053",
+        "Valor": 50.039,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2054,
+        "Periodo": "Año",
+        "Parametro": "2054",
+        "Valor": 50.116,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2055,
+        "Periodo": "Año",
+        "Parametro": "2055",
+        "Valor": 50.186,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2056,
+        "Periodo": "Año",
+        "Parametro": "2056",
+        "Valor": 50.249,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2057,
+        "Periodo": "Año",
+        "Parametro": "2057",
+        "Valor": 50.305,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2058,
+        "Periodo": "Año",
+        "Parametro": "2058",
+        "Valor": 50.353,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2059,
+        "Periodo": "Año",
+        "Parametro": "2059",
+        "Valor": 50.393,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2060,
+        "Periodo": "Año",
+        "Parametro": "2060",
+        "Valor": 50.424,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2061,
+        "Periodo": "Año",
+        "Parametro": "2061",
+        "Valor": 50.447,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2062,
+        "Periodo": "Año",
+        "Parametro": "2062",
+        "Valor": 50.462,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2063,
+        "Periodo": "Año",
+        "Parametro": "2063",
+        "Valor": 50.469,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2064,
+        "Periodo": "Año",
+        "Parametro": "2064",
+        "Valor": 50.468,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2065,
+        "Periodo": "Año",
+        "Parametro": "2065",
+        "Valor": 50.46,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2066,
+        "Periodo": "Año",
+        "Parametro": "2066",
+        "Valor": 50.446,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2067,
+        "Periodo": "Año",
+        "Parametro": "2067",
+        "Valor": 50.426,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2068,
+        "Periodo": "Año",
+        "Parametro": "2068",
+        "Valor": 50.401,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2069,
+        "Periodo": "Año",
+        "Parametro": "2069",
+        "Valor": 50.372,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2070,
+        "Periodo": "Año",
+        "Parametro": "2070",
+        "Valor": 50.34,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2071,
+        "Periodo": "Año",
+        "Parametro": "2071",
+        "Valor": 50.306,
+        "Estado": null,
+        "Notas": null
+      },
+      {
+        "Agno": 2072,
+        "Periodo": "Año",
+        "Parametro": "2072",
+        "Valor": 50.27,
+        "Estado": null,
+        "Notas": null
+      }
+    ]
+  }
+]
